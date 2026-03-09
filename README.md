@@ -29,7 +29,7 @@ It is assumed that there will always be a safe path that the agent can take to e
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8696111a-a4a7-47cb-ba4b-43a4ef88573f)
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/4be5bf06-79fa-4fa0-9334-38a33f06060b)
 
-##PROGRAM
+## PROGRAM
 ```py
 wumpus=[["Save","Breeze","PIT","Breeze"],
 ["Smell","Save","Breeze","Save"],
@@ -141,11 +141,11 @@ if(wumpus[row][column]=='PIT'):
     print("Ahhhhh!!!!\nYou fell in pit.\nAnd your score is: ",score,"\n")
     break
 ```
-##OUTPUT
+## OUTPUT
 
 <img width="384" height="793" alt="image" src="https://github.com/user-attachments/assets/0f5ac311-3921-4c04-b4bd-9a986ff14ec8" />
 
 
-##RESULT
+## RESULT
 
 Thus, to solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic is done successfully
