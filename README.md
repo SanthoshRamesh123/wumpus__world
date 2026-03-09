@@ -145,5 +145,7 @@ if(wumpus[row][column]=='PIT'):
 
 <img width="384" height="793" alt="image" src="https://github.com/user-attachments/assets/0f5ac311-3921-4c04-b4bd-9a986ff14ec8" />
 
+
 ##RESULT
+
 Thus, to solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic is done successfully
